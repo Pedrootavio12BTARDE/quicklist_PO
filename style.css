@@ -110,7 +110,7 @@ main {
         cursor: pointer;
 
         &:hover {
-     background: var(--color-brand-hover);
+      background: var(--color-brand-hover);
         }
     }
 }
