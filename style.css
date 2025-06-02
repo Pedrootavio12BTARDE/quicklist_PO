@@ -110,7 +110,7 @@ main {
         cursor: pointer;
 
         &:hover {
-            background: var(--color-brand-hover);
+     background: var(--color-brand-hover);
         }
     }
 }
@@ -213,6 +213,7 @@ gap: .8rem;
         border: none;
         background: none;
         color: var(--always-white);
+        cursor: pointer;
     }
 }
 
